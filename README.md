@@ -1,4 +1,11 @@
-Project Description:
-	This project has a simple blue color ball, which will move from top to bottom and bottom to top, like bouncing from between the x and y axis. It will repeat this process whenever we load the page. The ball is created by HTML, CSS. And making the ball to do some event by JAVASCRIPT.
+#Simulation ball movement
+In simulation ball movement a ball is made to move in vertical direction in fixed velocity
+
+#Steps to Run the Project
+Open the github link to run the simulation ball movement program
+
+#Future Improvements
+This Project can be further enhanced by creating an animation like a boy bouncing the ball
+
 
 https://aravind-mca2023.github.io/ball/
