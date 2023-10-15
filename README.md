@@ -1,4 +1,4 @@
-# Simulation ball movement
+# Simulation ball 
 
 In simulation ball movement a ball is made to move in vertical direction in fixed velocity
 
