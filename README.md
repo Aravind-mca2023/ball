@@ -10,5 +10,3 @@ Open the github link to run the simulation ball movement program
 
 This Project can be further enhanced by creating an animation like a boy bouncing the ball
 
-
-https://aravind-mca2023.github.io/ball/
